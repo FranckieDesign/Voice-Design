@@ -107,7 +107,7 @@ const resultList = {
 };
 
 const questions = [{
-    question: "Do you think fish expensive?",
+    question: "Do you think that the fish is expensive?",
     questionDisplay: "Do you like spending time socializing?",
     background:  "https://s3.amazonaws.com/coach-courses-us/public/courses/voice/2.7/q1.jpg", 
     //background: "question1.jpg",
@@ -147,7 +147,7 @@ const questions = [{
   },
   {
     question: "Do think that 6000 euro is a good price for an Alfa Romeo with less than 100 000 km?",
-    questionDisplay: "Do think that 6000 euro is a good price for an Alfa Romeo with less than 100 000 km?",
+    questionDisplay: "Do think that 6000 euro is a good price for an Alfa Romeo with less than hundred thousand km?",
     background: "https://s3.amazonaws.com/coach-courses-us/public/courses/voice/2.7/q4.jpg", 
     //background: "question4.jpg",
     points: {
